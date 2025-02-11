@@ -1,16 +1,14 @@
 {
-    "name": "Unity.RenderPipelines.Universal.Config.Runtime",
-    "rootNamespace": "",
+    "name": "Unity.RenderPipeline.Universal.ShaderLibrary",
     "references": [
         "GUID:df380645f10b7bc4b97d4f5eb6303d95"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": true,
+    "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+    "versionDefines": []
 }

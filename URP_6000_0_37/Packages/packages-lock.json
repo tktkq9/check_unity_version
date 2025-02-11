@@ -141,7 +141,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.render-pipelines.core": {
-      "version": "file:com.unity.render-pipelines.core@89eb3bdcd743",
+      "version": "file:com.unity.render-pipelines.core",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -156,7 +156,7 @@
       }
     },
     "com.unity.render-pipelines.universal": {
-      "version": "file:com.unity.render-pipelines.universal@15fef0f41df6",
+      "version": "file:com.unity.render-pipelines.universal",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -198,7 +198,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.shadergraph": {
-      "version": "file:com.unity.shadergraph@911117698220",
+      "version": "file:com.unity.shadergraph",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -259,7 +259,7 @@
       }
     },
     "com.unity.visualeffectgraph": {
-      "version": "file:com.unity.visualeffectgraph@f7c4379187a3",
+      "version": "file:com.unity.visualeffectgraph",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
